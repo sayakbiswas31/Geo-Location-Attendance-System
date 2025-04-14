@@ -51,6 +51,8 @@ Watch the full system in action here:
 
 **Sayak Biswas**  
 MCA Student, DCSA, Panjab University  
-Email: _your_email_here_  
+Email: sayakbiswas31.career@gmail.com 
 LinkedIn: [your-linkedin](https://www.linkedin.com/in/sayak-biswas-a87282177/)  
 GitHub: [sayakbiswas](https://github.com/sayakbiswas31)
+
+💡 If you want access to the code base, feel free to email me.
