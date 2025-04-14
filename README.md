@@ -23,7 +23,7 @@ A smart and secure location-based attendance system designed to eliminate proxy 
 ## 🎥 Demo Video
 
 Watch the full system in action here:  
-👉 [https://drive.google.com/file/d/1D1k-6eY1ix1bMeK9ycbU7rtI8PfnSTz8/view?usp=drive_link](#) *(Replace this with your actual video link)*
+👉 [https://drive.google.com/file/d/1D1k-6eY1ix1bMeK9ycbU7rtI8PfnSTz8/view?usp=drive_link](#) 
 
 ## 🏁 How It Works
 
